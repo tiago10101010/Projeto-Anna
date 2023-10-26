@@ -1,0 +1,54 @@
+#fundo{
+    background-image: url('imagens/fundo.png');
+    background-color: #d2d2c1;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#principal{
+    width: 900px;
+
+  }
+
+  .home{
+    font-size: 18px;
+    background-color: #c5c5b2;
+    color: rgb(71, 5, 224);
+    font-weight: 600;
+    padding: 5px 10px;
+  }
+
+  .paragrafo{
+    background-color: #ebebe2;
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 900px;
+    padding-left: 8px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  .rodape{
+    text-align: center;
+    background-color: #d2d2c1;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+  }
+
+  .titulo{
+    color: blueviolet;
+padding-left: 100px;  }
+
+  .fotos{
+    border: 10px solid #d2d2c1 ;
+    border-radius: 10px;
+  }
+
+  #contato{
+    padding: 10px 5px;
+  }
